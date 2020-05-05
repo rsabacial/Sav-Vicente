@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; Church &#8212; WordPress</title>
+	<title>Log In &lsaquo; San Vicente Ferrer &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='./wp-includes/css/dashicons.min.css?ver=5.4.1' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='./wp-includes/css/buttons.min.css?ver=5.4.1' media='all' />
@@ -56,7 +56,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="./index.html">
-		&larr; Back to Church		</a></p>
+		&larr; Back to San Vicente Ferrer		</a></p>
 			</div>
 	<script src='./wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script src='./wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
